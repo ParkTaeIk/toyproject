@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+  }
+
+.BestItem {
+    width : 300px;
+    background-color : white;
+    cursor : pointer;
+    text-align: center;
+    font-size:12px;
+    color : black;
+    transition: all .6s;
+}
+
+.BestItem:hover {
+    background-color : rgba(248,200,237,1);
+    color : white;
+    transition: all .6s;
+}
+
+.Header {
+    text-align: center;
+    background: linear-gradient(120deg,#FFE9F6,#B92DB4);
+    height : 130px;
+}
+
+.Footer {
+    text-align: center;
+    background: linear-gradient(120deg,#FFE9F6,#B92DB4);
+    width : 100%;
+    height: 35px;
+    color:black;
+    font-size : 14px;
+    position: fixed;
+    bottom: 0;
+    height : 30px;
+}
+
+.Button {
+    width : 60px;
+    height : 60px;
+    position: absolute;
+    margin-left: -940px;
+}
+
+.Navbar {
+    width : 700px;
+    height : 700px;
+    margin-left : 503px;
+}
+
+.Textarea {
+    background-color: lavenderblush;
+    font-size: 20px;
+    width : 700px;
+    height : 700px; 
+    font-weight : bolder;  
+    position: absolute;
+    left : 63.2%;
+}
+
+
+.Login {
+    font-size:12px;
+    width : 60px;
+    height : 60px;
+    position: absolute;
+    display: inline-block;
+    margin : 0 850px;
+    margin-top : -77px;
+    color : white;
+}
+
+.Styled {
+    overflow: hidden;
+}
+
+MenuItem.img {
+    position: absolute;
+    margin-top:100px;
+    max-width: 200px ;
+}
+
+img {
+    overflow: hidden;
+    transition: all .6s;
+}
+
+img:hover {
+    transform: scale(1.03);
+    transition: all .6s;
+}
+
+.imgBox {
+    border-radius: 70%;
+}
+
+.boxStyle {
+    text-decoration: none;
+}
+
+h1{
+    position: relative;
+    margin-top: 30px;
+    font-size: 4em;
+    color:rgb(90, 22, 109);
+}
+
+h3 {
+    position: relative;
+    margin-top: 30px;
+    font-size: 0.8m;
+    color:black;
+}
+
+object Object {
+    margin-left: 700px;
+}
+
+.LikeStyle {
+    width : 300px;
+    background-color : white;
+    cursor : pointer;
+    text-align: center;
+    font-size:12px;
+    color : black;
+    transition: all .6s;
+}

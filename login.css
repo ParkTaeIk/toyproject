@@ -1,0 +1,23 @@
+.login-form{
+    width: 400px;
+    padding: 200px 0;
+    margin: 0 auto;
+}
+
+.text {
+    font-size: 15px;
+    margin-bottom: 20px;
+    width: 400px;
+    padding: 6px;
+  }
+
+  .btn {
+    width: 415px;
+    color: white;
+    background-color: rgb(64, 12, 105);
+    margin-top: 10px;
+    font-size: 20px;
+    padding: 20px;
+  }
+
+  
